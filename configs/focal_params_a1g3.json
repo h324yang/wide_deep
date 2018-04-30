@@ -1,0 +1,13 @@
+{
+    "hidden_units": [
+        100,
+        75,
+        50,
+        25
+    ],
+    "n_class": 4,
+    "dropout_rate": 0.8,
+    "learning_rate": 0.1,
+    "gamma": 3.0,
+    "alpha": [1.0, 1.0, 1.0, 1.0]
+}
